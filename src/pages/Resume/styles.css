@@ -1,0 +1,19 @@
+.resume{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    height: fit-content;
+    padding-bottom: 3vh;
+}
+
+.heading-container{
+    margin: 1rem;
+}
+
+.body-container{
+    margin: 1rem;
+    width: 80vw;
+}
+.button-container{
+    margin-bottom: 1rem;
+}

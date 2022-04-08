@@ -1,0 +1,82 @@
+[
+    {
+        "title": "Not-Discord/Goblin Hours",
+        "description": "A lite chat service I built to practice React further and also use sockets for the first time.",
+        "repoLink":"/Socket-Chat-Project",
+        "deployedLink": "https://not-discord-chat-server.herokuapp.com/",
+        "category": "personal"
+    },
+    {
+        "title": "SpacedOut - Group Project 2",
+        "description": "SpacedOut is an anonymous social media service for posting brief feelings, vibes or events, akin to having a public unattributed diary. Other users can then reciprocate feelings if desired.",
+        "repoLink":"/Trilogy-Group-Project-2-SpacedOut",
+        "deployedLink":"https://spaced-problems.herokuapp.com/",
+        "category": "school"
+    },
+    {
+        "title": "Das Tech Zone",
+        "description": "A full CRUD blog website built to demonstrate utilizing sequelize to manage a SQL database and also handle session based logins.",
+        "repoLink": "/Trilogy-HW-12-Tech-Blog",
+        "deployedLink": "https://trilogy-tech-blog.herokuapp.com/",
+        "category":"school"
+    },
+    {
+        "title": "Social Network API",
+        "description": "Thoughts is a basic back-end API for a social network utilizing express and MongoDB via Mongoose.",
+        "repoLink": "/Trilogy-HW-14-Social-Network-API",
+        "deployedLink": "",
+        "category": "school"
+    }, 
+    {
+        "title": "Budget Tracker",
+        "description": "Budget tracker is an application that allows you to track incoming and outgoing transactions. This project required the application be modified to work offline and be able to update again once online.",
+        "repoLink": "/Trilogy-HW-pwa",
+        "deployedLink": "https://trilogy-hw-budget-tracker.herokuapp.com/",
+        "category":"school"
+    },
+    {
+        "title": "E-Commerce Back-End",
+        "description": "A back-end server application built to store products, categories and tags in a database. The server is able to handle get, post, put and delete requests to view or manipulate the database from a front-end application.",
+        "repoLink":"/Trilogy-HW-Week-11-E-Commerce-Back-End",
+        "category": "school"
+    },
+    {
+        "title": "Employee Tracker",
+        "description":"Employee tracker is a CLI application built for the creation and maintenance of a database of employees. Employee tracker allows a user to easily view a number of reports regarding employees, roles and departments. Users are also able to add, update or delete employees, roles or departments.",
+        "repoLink":"/Trilogy-HW-Week-10-Employee-Tracker",
+        "category":"school"
+    },
+    {
+        "title": "Team Profile Page Generator",
+        "description": "A command line utility designed to produce a web page displaying members of an office team based on user input.",
+        "repoLink": "/Trilogy-HW-Week-8-Team-Profile-Generator",
+        "category": "school"
+    },
+    {
+        "title": "Note Taker",
+        "description":" An online note taking application utilizing node and express to manage a back-end server that is able to fulfill GET, POST and DELETE fetch requests from a provided starter front-end.",
+        "deployedLink": "https://charles-tietjen-note-taker.herokuapp.com/",
+        "repoLink": "/Trilogy-HW-Week-9-Note-Taker",
+        "category": "school"
+    },
+    {
+        "title": "ReadMe Generator",
+        "description": "This is an application designed to create a readme file based on user input. The application generates a file with appropriate markdown for use in a GitHub repository.",
+        "repoLink": "/Trilogy-HW-Week-7-ReadMe-Generator",
+        "category":"school"
+    },
+    {
+        "title": "Recipe Helper - Group Project 2",
+        "description": "A website built primarily to demonstrate being capable of writing fetch requests and manipulating retrieved data to display tailored content on a website.",
+        "repoLink": "/Trilogy-Group-Project-Recipe-Helper",
+        "deployedLink": "https://charlestietjen.github.io/Trilogy-Group-Project-Recipe-Helper/",
+        "category":"school"
+    },
+    {
+        "title": "Weather Dashboard",
+        "description": "A solo project built to demonstrate making fetch requests, manipulating retrieved data and saving data in a browser's local storage.",
+        "repoLink":"/Trilogy-HW-Week-6-Weather-Dashboard",
+        "deployedLink": "https://charlestietjen.github.io/Trilogy-HW-Week-6-Weather-Dashboard/",
+        "category":"school"
+    }
+]
