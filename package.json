@@ -2,7 +2,7 @@
   "name": "trilogy-hw-react-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://charlestietjen.github.io",
+  "homepage": "https://charlestietjen.github.io/react-portfolio",
   "dependencies": {
     "@react-three/fiber": "^8.0.6",
     "@testing-library/jest-dom": "^5.16.3",
