@@ -1,0 +1,48 @@
+.aboutme {
+    width: 100vw;
+    height: 60vh;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.side-by-side {
+    margin: 0 0.5vw 0 0.5vw;
+    width: 40vw;
+    height:fit-content;
+}
+
+.image-container {
+    width: 50vw;
+    height: fit-content;
+}
+
+.profile-image{
+    max-height: 25vh;
+    margin: 0 0.5vw 0 0.5vw;
+}
+
+.lower-container {
+    padding-left: 20vw;
+    width: 90vw;
+    height: fit-content;
+    margin: 0 1vw 0 1vw;
+}
+
+@media screen and (min-width: 900px){
+    .aboutme{
+        flex-direction: column;
+        padding-left: 10vw;
+    }
+    .side-by-side{
+        margin: 3vh 0 3vh 0;
+    }
+    .image-container{
+        width: 30vw;
+    }
+    .profile-image{
+        max-height: 40vh;
+    }
+    .lower-container{
+        padding: 12vh 0 0 10vw;
+    }
+}
