@@ -1,5 +1,5 @@
 import './styles.css';
-import Project from './Project/';
+import Project from '../../components/Project/';
 import projectList from '../../lib/projects.json';
 
 export default function Projects(){

@@ -1,7 +1,7 @@
 import 'the-new-css-reset/css/reset.css';
 import 'bulma/css/bulma.css';
 import './App.css';
-import Hero from './components/Hero/';
+import Header from './components/Header/';
 import Footer from './components/Footer';
 import Projects from './pages/Projects';
 import AboutMe from './pages/AboutMe';
@@ -17,7 +17,7 @@ function App() {
 
   return (
     <>
-      <Hero currentPage={currentPage} updatePage={updatePage} />
+      <Header currentPage={currentPage} updatePage={updatePage} />
       {currentPage === 'projects' && (<Projects />)}
       {currentPage === 'aboutme' && (<AboutMe />)}
       {currentPage === 'contactme' &&(<ContactMe />)}

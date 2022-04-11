@@ -2,7 +2,7 @@ import { useState } from 'react';
 import { GoMarkGithub } from 'react-icons/go';
 import { IconContext } from 'react-icons';
 import './styles.css';
-import Modal from './Modal';
+import Modal from '../Modal';
 
 export default function Project(props){
     const { title, description, repoLink, deployedLink } = props.projData;

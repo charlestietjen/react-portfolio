@@ -1,4 +1,3 @@
-import { useEffect } from 'react';
 import './styles.css';
 
 export default function Hero({ currentPage, updatePage }){
