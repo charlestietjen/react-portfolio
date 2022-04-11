@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.fe3f3571.css",
+    "main.js": "/react-portfolio/static/js/main.d7bbc563.js",
+    "static/js/787.792df86e.chunk.js": "/react-portfolio/static/js/787.792df86e.chunk.js",
+    "static/media/charles_tietjen_resume.pdf": "/react-portfolio/static/media/charles_tietjen_resume.f334d6834f9ee83a3a32.pdf",
+    "static/media/profile.jpg": "/react-portfolio/static/media/profile.42a2717beed5e028d669.jpg",
+    "index.html": "/react-portfolio/index.html",
+    "main.fe3f3571.css.map": "/react-portfolio/static/css/main.fe3f3571.css.map",
+    "main.d7bbc563.js.map": "/react-portfolio/static/js/main.d7bbc563.js.map",
+    "787.792df86e.chunk.js.map": "/react-portfolio/static/js/787.792df86e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe3f3571.css",
+    "static/js/main.d7bbc563.js"
+  ]
+}
