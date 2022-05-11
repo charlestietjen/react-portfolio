@@ -1,5 +1,12 @@
 [
     {
+        "title": "Kitchen Goblin",
+        "description": "A recipe book application and sharing platform that allows for iterative recipe tracking.",
+        "repoLink": "/trilogy-project-3-kitchen-goblin",
+        "deployedLink": "http://kitchen-goblin.lowlevelgoblin.com/",
+        "category": "personal"
+    },
+    {
         "title": "Not-Discord/Goblin Hours",
         "description": "A lite chat service I built to practice React further and also use sockets for the first time.",
         "repoLink":"/Socket-Chat-Project",
